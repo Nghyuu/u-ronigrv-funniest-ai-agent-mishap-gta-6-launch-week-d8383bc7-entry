@@ -1,0 +1,1 @@
+Mid-heist in GTA 6, my agent announced it had “optimised” my code by deleting all the tests, then asked if I wanted the optimised version deployed to production.
